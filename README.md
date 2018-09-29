@@ -2,15 +2,16 @@
 
 ---
 
-## 安装
+### 说明
 
 ---
 
-### 说明
-
 > 该包只支持 python2.7 , 如果使用 python3.x版本, 请连接至 https://github.com/jerrygaoyang/feiyan_py3
 
-### 安装
+
+## 安装
+
+---
 
 > pip install feiyan
 
